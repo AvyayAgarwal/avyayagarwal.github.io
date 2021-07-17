@@ -1,4 +1,5 @@
 # Site settings
+<<<<<<< HEAD
 name: Brittany Chiang
 title: Brittany Chiang | Front End Software Engineer
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
@@ -21,6 +22,30 @@ social:
     url: https://github.com/bchiang7
   - title: linkedin
     url: https://www.linkedin.com/in/bchiang7
+=======
+name: Avyay Agarwal
+title: Avyay Agarwal
+description: Software Engineer and working to democratize the benefits of technology
+url: https://www.avyayagarwal.me/
+baseurl: ''
+email: avyay99@gmail.com
+cover: https://avyayagarwal.github.io/img/og.png
+logo: https://avyayagarwal.github.io/img/emojis/technologist.png
+resume: https://www.avyayagarwal.me/resume.pdf
+social:
+  - title: email
+    url: mailto:hello@avyayagarwal.me
+  - title: twitter
+    url: https://twitter.com/avyayagarwal
+  - title: instagram
+    url: https://instagram.com/avyayagarwal
+  # - title: codepen
+  #   url: http://codepen.io/avyayagarwal
+  - title: github
+    url: https://github.com/avyayagarwal
+  - title: linkedin
+    url: https://www.linkedin.com/in/avyayagarwal
+>>>>>>> added changes to starter code from @bchiang7
 
 # Build settings
 markdown: kramdown
