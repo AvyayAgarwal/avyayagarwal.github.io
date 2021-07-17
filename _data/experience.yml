@@ -1,0 +1,39 @@
+- company: Tesla
+  url: https://www.tesla.com/
+  time: Sep 2021 - Dec 2021
+  position: Incoming Data Engineering Intern
+
+- company: Twitter
+  url: https://www.twitter.com/
+  time: Jun 2021 - Sep 2021
+  position: ML Engineering Intern
+
+- company: Squarepoint Capital
+  url: https://www.squarepoint-capital.com/
+  time: Jan 2021 - May 2021
+  position: Data Engineering Intern
+
+- company: Astra Labs
+  url: https://www.withastra.org/
+  time: Dec 2020 - May 2021
+  position: Android Developer
+
+- company: LoyaltyOne
+  url: https://www.loyalty.com/
+  time: Sep 2019 - Dec 2019
+  position: Data Science Intern
+
+- company: LoyaltyOne - Zero Gravity Labs
+  url: https://www.loyalty.com/
+  time: Jan 2019 - Apr 2019
+  position: iOS Developer Intern
+
+- company: WATonomous
+  url: http://www.watonomous.com/
+  time: May 2018 - Sep 2018
+  position: Backend Developer
+
+- company: Economical Insurance
+  url: http://www.economical.com/
+  time: May 2018 - Aug 2018
+  position: Software Developer Intern
