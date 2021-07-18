@@ -1,0 +1,84 @@
+- name: Safeway (Hack The North 2019)
+  url: https://github.com/AvyayAgarwal/Safeway
+  code: https://github.com/AvyayAgarwal/Safeway
+  description: 
+    An Android application that leverages Toronto Police Open Data to help users navigate using the safest route and automatically send an SOS to authorities if the user falls victim to crime.
+  used:
+    - thing: Java
+    - thing: Python
+    - thing: Google Maps API
+    - thing: Toronto Police Open Data
+    - thing: Android Studio
+
+- name: Jukebox
+  url: https://github.com/AvyayAgarwal/Jukebox
+  code: https://github.com/AvyayAgarwal/Jukebox
+  description: 
+    A Ruby on Rails application that uses the Spotify API to provide a progression analysis of your Spotify library based on the danceability and energy of songs. 
+    This application is intended to provide you an insight into the your Spotify library and allow you to customize it according to how you want it to progress (say if you want to play it for a house party).
+  used:
+    - thing: Ruby
+    - thing: Rails
+    - thing: Spotify API
+    - thing: Javascript
+    - thing: HTML/CSS
+
+- name: EchoMe
+  url: https://github.com/AvyayAgarwal/EchoMe
+  code: https://github.com/AvyayAgarwal/EchoMe
+  description: 
+    Developed an Android application which allows users and their friends to answer questions about each other in a question-feed style and intuitively see each other’s responses based on a barter-style algorithm.
+  used:
+    - thing: Java
+    - thing: MongoDB
+    - thing: StdLib
+    - thing: Firebase
+    - thing: Android Studio
+
+- name: Motion Detector
+  url: https://github.com/AvyayAgarwal/MotionDetector
+  code: https://github.com/AvyayAgarwal/MotionDetector
+  description: 
+    A webcam-based motion detection application built in Python using OpenCV. Features include automatic generation of a time series graph to visualize motion detection based on timestamp and duration.
+  used:
+    - thing: Python
+    - thing: OpenCV
+
+- name: Chat App
+  url: https://github.com/AvyayAgarwal/ChatApp
+  code: https://github.com/AvyayAgarwal/ChatApp
+  description: 
+    A Node.js application for messaging in a chatroom based format that leverages the power of Socket.IO to provide a snappy, near instant conversational experience on both desktop and mobile devices. Features include being able to share your location at the tap of a button.
+  used:
+    - thing: Node.js
+    - thing: Socket.IO
+    - thing: Javascript
+    - thing: HTML/CSS
+
+- name: The Weather App
+  url: https://github.com/AvyayAgarwal/TheWeatherApp
+  code: https://github.com/AvyayAgarwal/TheWeatherApp
+  description: 
+    A Node.js application that gives the current weather forecast of an inputted location. It uses the Google Maps and Dark Sky APIs to get location and weather information respectively. <br/>
+    Key features include temperature automatically being shown in Celsius or Fahrenheit depending on the units followed at that location. The application will also show national weather warnings if any have been issued.
+  used:
+    - thing: Node.js
+    - thing: Dark Sky API
+    - thing: Google Maps API
+    - thing: Javascript
+    - thing: HTML/CSS
+
+- name: HackSale
+  url: https://github.com/AvyayAgarwal/HackSale
+  description:
+    Created an e-commerce store leveraging Shopify’s platform to create a marketplace for boilerplate hackathon projects intended to help people quickly start working on their projects by buying the initial codebase. <br/>
+    <a class="small">🏆 Winner - Shopify Build A Business Challenge 🏆</a>
+
+- name: Fingertips
+  url: https://github.com/AvyayAgarwal/Fingertips
+  code: https://github.com/AvyayAgarwal/Fingertips
+  description: 
+    Contributed to the front-end development of a Chrome extension meant to warn users about their counterproductive internet internet activity (compulsive online shopping, etc).
+  used:
+    - thing: JavaScript
+    - thing: HTML/CSS

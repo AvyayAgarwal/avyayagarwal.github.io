@@ -1,0 +1,40 @@
+<section class="section skills">
+  <div class="section__title">Skills</div>
+  <div class="section__content">
+    <!-- <p>I’ve picked up quite a few skills during the course of my three co-ops, and aim to improve these skills everyday. Here are a few of the technologies that I have experience with:</p> -->
+    <div class="skillz">
+      <div class="skillz__category">
+        <div class="skillz__category__label">Languages</div>
+        <ul>
+          {% for language in site.data.skills.languages %}
+          <li class="skillz__category__item">{{language.item}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="skillz__category">
+        <div class="skillz__category__label">Data/ML</div>
+        <ul>
+          {% for data-ml in site.data.skills.data-ml %}
+          <li class="skillz__category__item">{{data-ml.item}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="skillz__category">
+        <div class="skillz__category__label">Mobile/Web</div>
+        <ul>
+          {% for mobile-web in site.data.skills.mobile-web %}
+          <li class="skillz__category__item">{{mobile-web.item}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="skillz__category">
+        <div class="skillz__category__label">Others</div>
+        <ul>
+          {% for others in site.data.skills.others %}
+          <li class="skillz__category__item">{{others.item}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>

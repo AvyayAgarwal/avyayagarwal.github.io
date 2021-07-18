@@ -1,0 +1,44 @@
+name: Avyay Agarwal
+title: Avyay Agarwal
+description: Software Engineer working to democratize the benefits of technology
+url: https://www.avyayagarwal.me/
+baseurl: ''
+email: hello@avyayagarwal.me
+cover: https://avyayagarwal.github.io/img/og.png
+logo: https://avyayagarwal.github.io/img/emojis/technologist.png
+resume: https://www.avyayagarwal.me/resume.pdf
+social:
+  - title: email
+    url: mailto:hello@avyayagarwal.me
+  - title: twitter
+    url: https://twitter.com/avyayagarwal
+  - title: instagram
+    url: https://instagram.com/avyayagarwal
+  # - title: codepen
+  #   url: http://codepen.io/avyayagarwal
+  - title: github
+    url: https://github.com/avyayagarwal
+  - title: linkedin
+    url: https://www.linkedin.com/in/avyayagarwal
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
