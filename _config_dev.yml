@@ -1,10 +1,10 @@
 # Site settings
 name: Avyay Agarwal
 title: Avyay Agarwal
-description: Software Engineer and working to democratize the benefits of technology
+description: Software Engineer working to democratize the benefits of technology
 url: https://www.avyayagarwal.me/
 baseurl: ''
-email: avyay99@gmail.com
+email: hello@avyayagarwal.me
 cover: https://avyayagarwal.github.io/img/og.png
 logo: https://avyayagarwal.github.io/img/emojis/technologist.png
 resume: https://www.avyayagarwal.me/resume.pdf
