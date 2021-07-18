@@ -1,33 +1,46 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
   - item: Python
+  - item: Java
+  - item: Scala
+  - item: C/C++
+  - item: Swift
+  - item: Ruby
+  - item: TypeScript
+  - item: Scheme/Racket
+  - item: JavaScript
+  - item: HTML/CSS
   - item: SQL
-  - item: R
 
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
-
-tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
+data-ml:
+  - item: Spark
+  - item: Kafka
+  - item: Hadoop
+  - item: Solr
+  - item: Airflow
+  - item: Tensorflow
+  - item: PyTorch
+  - item: SparkML
+  - item: Scikit-learn
   - item: MongoDB
+  - item: MySQL
+  - item: PostgreSQL
+  - item: SQLAlchemy
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+mobile-web:
+  - item: React.js
+  - item: Node.js
+  - item: ARKit
+  - item: CoreML
+  - item: iOS
+  - item: Android
+
+others:
+  - item: Elasticsearch
+  - item: Docker
+  - item: Kubernetes
+  - item: AWS
+  - item: GCP/GKE
+  - item: Nomad
+  - item: Bamboo
+  - item: Consul
+  - item: Git
