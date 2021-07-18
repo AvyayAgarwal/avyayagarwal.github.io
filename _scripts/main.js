@@ -40,6 +40,11 @@ $(function() {
     $('html, body').animate({ scrollTop: 0 }, 500);
   });
 
+  const bottomButton = document.getElementById('scroll-to-footer');
+  bottomButton.addEventListener('click', function() {
+    $('html, body').animate({ scrollTop: $('html, body').get(0).scrollHeight }, 500);
+  });
+
   const hand = document.querySelector('.emoji.wave-hand');
 
   function waveOnLoad() {
