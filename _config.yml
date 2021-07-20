@@ -10,16 +10,16 @@ resume: https://www.avyayagarwal.me/resume.pdf
 social:
   - title: email
     url: mailto:hello@avyayagarwal.me
-  - title: twitter
-    url: https://twitter.com/avyayagarwal
-  - title: instagram
-    url: https://instagram.com/avyayagarwal
+  # - title: instagram
+  #   url: https://instagram.com/avyayagarwal
   # - title: codepen
   #   url: http://codepen.io/avyayagarwal
   - title: github
     url: https://github.com/avyayagarwal
   - title: linkedin
     url: https://www.linkedin.com/in/avyayagarwal
+  - title: twitter
+    url: https://twitter.com/avyayagarwal
 
 # Build settings
 markdown: kramdown
