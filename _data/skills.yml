@@ -36,6 +36,7 @@ mobile-web:
 
 others:
   - item: Elasticsearch
+  - item: Redis
   - item: Docker
   - item: Kubernetes
   - item: AWS
