@@ -2,15 +2,15 @@
 name: Avyay Agarwal
 title: Avyay Agarwal | CS Major at UWaterloo | ML Engineering Intern @Twitter
 description: Software Engineer aiming to democratize the benefits of technology
-url: https://www.avyayagarwal.me/
+url: https://www.avyay.xyz/
 baseurl: ''
-email: hello@avyayagarwal.me
+email: hello@avyay.xyz
 cover: https://avyayagarwal.github.io/img/og.png
 logo: https://avyayagarwal.github.io/img/emojis/technologist.png
-resume: https://www.avyayagarwal.me/resume.pdf
+resume: https://www.avyay.xyz/resume.pdf
 social:
   - title: email
-    url: mailto:hello@avyayagarwal.me
+    url: mailto:hello@avyay.xyz
   # - title: instagram
   #   url: https://instagram.com/avyayagarwal
   # - title: codepen
