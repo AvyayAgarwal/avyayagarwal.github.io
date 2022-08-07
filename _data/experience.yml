@@ -1,3 +1,8 @@
+- company: Rippling
+  url: https://www.rippling.com/
+  time: Aug 2022 - Present
+  position: Software Engineer - Backend
+
 - company: Tesla
   url: https://www.tesla.com/
   time: Sep 2021 - Dec 2021
@@ -13,10 +18,10 @@
   time: Jan 2021 - May 2021
   position: Data Engineering Intern
 
-- company: Astra Labs
-  url: https://www.withastra.org/
-  time: Dec 2020 - May 2021
-  position: Android Developer
+# - company: Astra Labs
+#   url: https://www.withastra.org/
+#   time: Dec 2020 - May 2021
+#   position: Android Developer
 
 - company: LoyaltyOne
   url: https://www.loyalty.com/
@@ -28,10 +33,10 @@
   time: Jan 2019 - Apr 2019
   position: iOS Developer Intern
 
-- company: WATonomous
-  url: http://www.watonomous.com/
-  time: May 2018 - Sep 2018
-  position: Backend Developer
+# - company: WATonomous
+#   url: http://www.watonomous.com/
+#   time: May 2018 - Sep 2018
+#   position: Backend Developer
 
 - company: Economical Insurance
   url: http://www.economical.com/

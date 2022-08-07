@@ -29,6 +29,7 @@ data-ml:
 mobile-web:
   - item: React.js
   - item: Node.js
+  - item: Django
   - item: ARKit
   - item: CoreML
   - item: iOS
