@@ -1,5 +1,6 @@
 languages:
   - item: Python
+  - item: Golang
   - item: Java
   - item: Scala
   - item: C/C++
@@ -12,19 +13,20 @@ languages:
   - item: SQL
 
 data-ml:
+  - item: PostgreSQL
+  - item: Redis
+  - item: MongoDB
+  - item: MySQL
   - item: Spark
   - item: Kafka
   - item: Hadoop
-  - item: Solr
-  - item: Airflow
   - item: Tensorflow
   - item: PyTorch
   - item: SparkML
   - item: Scikit-learn
-  - item: MongoDB
-  - item: MySQL
-  - item: PostgreSQL
+  - item: Elasticsearch
   - item: SQLAlchemy
+  
 
 mobile-web:
   - item: React.js
@@ -36,8 +38,8 @@ mobile-web:
   - item: Android
 
 others:
-  - item: Elasticsearch
-  - item: Redis
+  - item: Airflow
+  - item: Temporal
   - item: Docker
   - item: Kubernetes
   - item: AWS
